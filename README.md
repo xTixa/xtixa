@@ -84,7 +84,7 @@ My academic career began in high school, where I completed the Computer Systems 
     align="left" 
     alt="GitHub Stats" 
     height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=xtixa&theme=dark&layout=compact&custom_title=Technologies&langs_count=10" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=xtixa&theme=dark&layout=compact&custom_title=Technologies&langs_count=5" 
   />
 
 </p>
