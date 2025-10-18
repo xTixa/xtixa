@@ -1,4 +1,4 @@
-## 👩‍💻 Patrícia Oliveira
+## Patrícia Oliveira
 
 **`Student`**
 
@@ -90,10 +90,6 @@ Currently, since the 2023/2024 academic year, I've been pursuing a degree in Com
 
 ### 🌐 Connect with me
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/patriciaoliveira)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/patricia-oliveiira-)  
 - 💻 [GitHub](https://github.com/xtixa)  
-- ✉️ [Email](mailto:patricia.oliveira@example.com)
-
----
-
-> _“The best way to predict the future is to create it.”_ — Peter Drucker
+- ✉️ [Email](mailto:patriciaisabeloliveira@outlook.pt)
