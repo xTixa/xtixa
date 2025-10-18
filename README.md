@@ -1,9 +1,11 @@
-## Patrícia Oliveira
+## 👩‍💻 Patrícia Oliveira
 
 **`Student`**
 
-Hey there! My name is Patrícia Oliveira, I'm 23 years old, and I'm from Viseu, Portugal.
-My academic career began in high school, where I completed the Computer Systems Management and Programming Technician program. I then pursued higher education, completing the Higher Professional Technical Course (CTeSP) in Computer Networks and Systems at the Polytechnic Institute of Viseu in 2023. Currently, since the 2023/2024 academic year, I've been pursuing a degree in Computer Engineering at the same institute, where I continue to develop my skills in programming, networking, and systems.
+Hey there! My name is Patrícia Oliveira, I'm 23 years old, and I'm from Viseu, Portugal.  
+My academic career began in high school, where I completed the Computer Systems Management and Programming Technician program.  
+I then pursued higher education, completing the Higher Professional Technical Course (CTeSP) in Computer Networks and Systems at the Polytechnic Institute of Viseu in 2023.  
+Currently, since the 2023/2024 academic year, I've been pursuing a degree in Computer Engineering at the same institute, where I continue to develop my skills in programming, networking, and systems.
 
 ---
 
@@ -69,22 +71,29 @@ My academic career began in high school, where I completed the Computer Systems 
 <br/>
 <br/>
 
-### 📊 Stats
+---
 
-<p>
+### 📊 GitHub Stats
+
+<p align="center">
   <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=xtixa&show_icons=true&theme=dark&include_all_commits=true" 
+    height="180em" 
+    src="https://github-readme-stats.vercel.app/api?username=xtixa&show_icons=true&theme=dark&include_all_commits=true&count_private=true&cache_seconds=1800" 
   />
-
-<img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=xtixa&theme=dark&layout=compact&custom_title=Technologies&langs_count=5" 
+  <img 
+    height="180em" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=xtixa&theme=dark&layout=compact&custom_title=Technologies&langs_count=5&cache_seconds=1800" 
   />
-
 </p>
+
+---
+
+### 🌐 Connect with me
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/patriciaoliveira)  
+- 💻 [GitHub](https://github.com/xtixa)  
+- ✉️ [Email](mailto:patricia.oliveira@example.com)
+
+---
+
+> _“The best way to predict the future is to create it.”_ — Peter Drucker
