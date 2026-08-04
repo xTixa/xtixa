@@ -36,15 +36,13 @@ Atualmente, desde 2023/2024, estou a frequentar a Licenciatura em Engenharia Inf
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xtixa&theme=tokyonight" />
 </p>
 
-### 📈 Stable Stats (não bugam)
+### 📈 Stable Stats 
 <p align="center">
   <img height="170em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=xtixa&theme=tokyonight"/>
   <img height="170em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=xtixa&theme=tokyonight"/>
 </p>
 
 ---
-
-## 🎨 Estilo Diferente
 
 <p align="center">
   <img src="https://img.shields.io/badge/Focus-Web%20Development-blue?style=for-the-badge"/>
