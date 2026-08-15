@@ -2,7 +2,7 @@
 
 **`Student • Web Developer • Tech Enthusiast`**
 
-Olá! Sou a Patrícia, tenho 23 anos e sou de Viseu, Portugal.  
+Olá! Sou a Patrícia, tenho 24 anos e sou de Viseu, Portugal.  
 A minha jornada começou no ensino secundário, onde concluí o curso de Técnico de Gestão e Programação de Sistemas Informáticos.  
 Mais tarde finalizei o CTeSP em Redes e Sistemas Informáticos no Instituto Politécnico de Viseu (2023).  
 
