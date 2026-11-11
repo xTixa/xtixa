@@ -13,7 +13,7 @@
 - 🔭 Currently building **BookLog**, a web & mobile app to track and share your reading
 - 🌱 Always learning something new
 - 📍 Based in Viseu, Portugal
-- ⚡ Fun fact: *...*
+- ⚡ Fun fact: My watchlist and my reading list are both longer than my backlog 🍿📖
 ---
  
 ## 🛠️ Tech Stack
